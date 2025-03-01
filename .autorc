@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "d444rr",
+  "repo": "container-i3r-tok",
+  "name": "d444rr",
+  "email": "atlantisdario19@gmail.com",
+}
